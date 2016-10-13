@@ -7,7 +7,7 @@ To launch the count first name by origin, use the command "yarn jar TP2.jar Map_
 
 ## Count number of first name by number of origin
 This example counts the number of people by their number of origin.
-To launch the count first name by origin, use the command "yarn jar TP2.jar Map_reduce_origin path1 path2".
+To launch the count first name by origin, use the command "yarn jar TP2.jar Map_reduce_originfirstname path1 path2".
 
 ## Proportion (in%) of male or female
 This example counts the percentage of male.
