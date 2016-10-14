@@ -1,5 +1,6 @@
 # BigData_TP2
 3 examples of map and reduce algorithm in HADOOP, Java language.
+To use it, download the TP2.jar in out/artifacts and try it on your hdfs server.
 
 ## Count first name by origin
 This example counts the number of people by their origin.
